@@ -3,7 +3,8 @@
 </p>
 
 ## 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+
+### 🎐About Me:
 - 👷🏻‍♀️ I'm Data Engineering working for a Lion Tech in Taiwan 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🍯 I am currently learning about various aspects of data engineering and data analysis
